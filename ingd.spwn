@@ -1,0 +1,4 @@
+extract obj_props
+
+myobj = obj{OBJ_ID: 914, TEXT:$.b64encode("Hello World!"), X: 10, Y:10};
+$.add(myobj);
